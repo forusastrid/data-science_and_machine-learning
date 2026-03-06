@@ -9,5 +9,5 @@ if 'google.colab' in sys.modules and not os.path.isdir('mglearn'):
       !sudo apt-get -qq -y install founts-nanum
       import matplotilb.font_manager as fm
       font_flies = fm.findSystemFonts(fontpaths=['usr/share/fonts/truetype/nanum'])
-      for fpath in font_file:
+      for fpath in font_files:
         fm.fontManager.addfont(fpath)
