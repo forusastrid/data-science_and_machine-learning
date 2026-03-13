@@ -5,4 +5,4 @@
 * DAY3 (3/9) : 14~20.py -> day3.py (summary)
 * DAY4 (3/11) : 21~25.py -> day4.py (summary) (분할 파일 미업로드)
 * DAY5 (3/12) : 26~34.py -> day5.py (summary) (분할 파일 미업로드)
-* DAY6 (3/13) : 35~40.py -> day6.py (summary) (분할 파일 미업로드)
+* DAY6 (3/13) : 35~43.py -> day6.py (summary) (분할 파일 미업로드)
