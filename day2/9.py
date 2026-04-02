@@ -1,6 +1,0 @@
-x,y= mglearn.datasets.make_wave(n_samples=40)
-plt.plot(X, y, 'o')
-plt,ylim(-3, 3)
-plt.xlabel("특성")
-plt.ylabel("타겟")
-plt.show()
